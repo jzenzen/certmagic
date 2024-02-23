@@ -29,9 +29,9 @@ import (
 	"sync/atomic"
 	"time"
 
+	"github.com/jzenzen/acmez"
+	"github.com/jzenzen/acmez/acme"
 	"github.com/libdns/libdns"
-	"github.com/mholt/acmez"
-	"github.com/mholt/acmez/acme"
 	"github.com/miekg/dns"
 )
 

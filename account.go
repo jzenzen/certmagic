@@ -32,7 +32,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/mholt/acmez/acme"
+	"github.com/jzenzen/acmez/acme"
 )
 
 // getAccount either loads or creates a new account, depending on if

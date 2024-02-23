@@ -20,7 +20,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mholt/acmez/acme"
+	"github.com/jzenzen/acmez/acme"
 )
 
 func TestSaveCertResource(t *testing.T) {
